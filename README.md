@@ -1,6 +1,8 @@
 # Fact Exchanger
 This web application is a collaborative fact-exchange platform where users can share, vote, and explore interesting, mind-blowing, or questionable facts in real-time. Built with HTML, CSS and JavaScript and integrated with **Supabase**, it combines modern web development with a knowledge-sharing twist.
 
+🎥 Watch Demo video at "https://vimeo.com/1074775463/f361c8cdf3?ts=0&share=copy" !
+
 ## 🚀 Tech Stack & Features  
 
 ### 🛠 Tech Stack:

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/factexchanger/static/css/main.57b08175.css",
+    "main.js": "/factexchanger/static/js/main.d5d25d5a.js",
+    "static/js/952.1ff3abf2.chunk.js": "/factexchanger/static/js/952.1ff3abf2.chunk.js",
+    "index.html": "/factexchanger/index.html",
+    "main.57b08175.css.map": "/factexchanger/static/css/main.57b08175.css.map",
+    "main.d5d25d5a.js.map": "/factexchanger/static/js/main.d5d25d5a.js.map",
+    "952.1ff3abf2.chunk.js.map": "/factexchanger/static/js/952.1ff3abf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b08175.css",
+    "static/js/main.d5d25d5a.js"
+  ]
+}

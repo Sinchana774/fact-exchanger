@@ -61,6 +61,3 @@ Visit [http://localhost:3000](http://localhost:3000) to start using the app !
 - 🔹 **User Profiles** – View facts contributed by specific users.   
 - 🔹 **Admin Panel** – Approve/review user-submitted facts.  
 - 🔹 **Bookmark Feature** – Save favorite facts for later.
-
-## 📜 License  
-This project is open-source and available under the **MIT License**.
